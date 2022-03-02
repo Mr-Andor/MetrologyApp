@@ -1,0 +1,15 @@
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\MetrologyApp.Utilities.deps.json
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\MetrologyApp.Utilities.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\ref\MetrologyApp.Utilities.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\MetrologyApp.Utilities.pdb
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.AssemblyInfoInputs.cache
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.AssemblyInfo.cs
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\ref\MetrologyApp.Utilities.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.pdb
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\MetrologyApp.Models.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\MetrologyApp.Models.pdb
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.csproj.AssemblyReference.cache
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.csproj.CopyComplete

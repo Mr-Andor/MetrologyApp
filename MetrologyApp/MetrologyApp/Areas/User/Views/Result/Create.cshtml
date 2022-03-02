@@ -1,0 +1,32 @@
+﻿@model Result
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-secondary">
+                New Calculation
+            </h2>
+            <hr />
+        </div>
+        <div class="mb-3">
+          <label asp-for="NominalPointId">Nominal Point ID</label>
+          <input type="number"  asp-for="NominalPointId" class="form-control" id="inputNominalPointId">
+          <span asp-validation-for="NominalPointId" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+          <label asp-for="ActualPointId">Actual Point ID</label>
+          <input type="number"  asp-for="ActualPointId" class="form-control" id="inputActualPointId">
+          <span asp-validation-for="ActualPointId" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-secondary" style="width:150px">Submit</button>
+        <a asp-controller="NominalPoint" asp-action="Index" class="btn btn-outline-secondary" style="width:150px"> Back </a>
+    </div>
+</form>
+
+@section Scripts 
+{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

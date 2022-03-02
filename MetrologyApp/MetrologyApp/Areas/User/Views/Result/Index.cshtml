@@ -1,0 +1,104 @@
+﻿@model IEnumerable<Result> 
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<div class="constainer p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-secondary">
+                Results
+            </h2>
+        </div>
+
+        <div class="col-6 text-end">
+            <a asp-controller="Result" asp-action="Create" class="btn btn-primary">
+               <i class="bi bi-plus-square-dotted"></i> &nbsp; New Calculation
+            </a>
+        </div>
+    </div>
+</div>
+<br /> <br />
+
+<table class="table table-borderless table-bordered table-striped table-hover" style="width: 100%">
+    <thead>
+        <tr>
+            <th>
+                Nominal Point ID
+            </th>
+            <th>
+                Actual Point ID
+            </th>
+            <th>
+                Average Point of X
+            </th>
+            <th>
+                Average Point of Y
+            </th>
+            <th>
+                Average Point of Z
+            </th>
+            <th>
+                Deviation
+            </th>
+            <th>
+                Result ID
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model)
+        {
+            <tr>
+                <td>
+                    @obj.NominalPointId
+                </td>
+
+                <td>
+                    @obj.ActualPointId
+                </td>
+
+                <td>
+                    @obj.avgPointX
+                </td>
+
+                
+                <td>
+                    @obj.avgPointY
+                </td>
+
+                
+                <td>
+                    @obj.avgPointZ
+                </td>
+
+                <td>
+                    @obj.deviation
+                </td>
+
+                <td>
+                    @obj.Id
+                </td>
+
+                <td style="max-width: 160px">
+                    <div class="w-auto btn-group a" role="group" >
+                        <a asp-controller="Result" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+                            <i class="bi bi-pencil-square"></i>
+                            Edit
+                        </a>
+                        <a asp-controller="Result" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+                            <i class="bi bi-trash"></i>
+                            Delete
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

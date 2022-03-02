@@ -1,0 +1,17 @@
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\MetrologyApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\MetrologyApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\MetrologyApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\MetrologyApp.DataAccess.AssemblyInfo.cs
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\MetrologyApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\bin\Debug\net6.0\MetrologyApp.DataAccess.deps.json
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\bin\Debug\net6.0\MetrologyApp.DataAccess.runtimeconfig.json
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\bin\Debug\net6.0\MetrologyApp.DataAccess.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\bin\Debug\net6.0\ref\MetrologyApp.DataAccess.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\bin\Debug\net6.0\MetrologyApp.DataAccess.pdb
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\bin\Debug\net6.0\MetrologyApp.Models.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\bin\Debug\net6.0\MetrologyApp.Models.pdb
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\MetrologyApp.DataAccess.csproj.CopyComplete
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\MetrologyApp.DataAccess.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\ref\MetrologyApp.DataAccess.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\MetrologyApp.DataAccess.pdb
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.DataAccess\obj\Debug\net6.0\MetrologyApp.DataAccess.genruntimeconfig.cache
