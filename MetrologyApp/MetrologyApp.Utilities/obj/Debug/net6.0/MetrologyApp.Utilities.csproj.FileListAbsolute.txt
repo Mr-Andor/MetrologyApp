@@ -13,3 +13,9 @@ C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.
 C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\MetrologyApp.Models.pdb
 C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.csproj.AssemblyReference.cache
 C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\obj\Debug\net6.0\MetrologyApp.Utilities.csproj.CopyComplete
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\André\source\repos\MetrologyApp\MetrologyApp.Utilities\bin\Debug\net6.0\testcentric.engine.metadata.dll

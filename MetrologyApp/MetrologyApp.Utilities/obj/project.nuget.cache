@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ptjuN8Y3i9+V0OlsvBa+c6CA+aPBQla51zmI+KrwJ2EFeTwsjbPRCY0ho0OP9VOcZxA0DShvsJfAlibYYN7dxw==",
+  "dgSpecHash": "v1UADUxF5JJS5WJ0Yz1q1sSG0uMg1s/GIZGqzDkwI6xkI1vYHxYIdI6FjuIpau4ZEXm7uIyckU0T7aw+/DlKhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\André\\source\\repos\\MetrologyApp\\MetrologyApp.Utilities\\MetrologyApp.Utilities.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\André\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\André\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\André\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\André\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

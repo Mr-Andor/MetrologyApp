@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f/YVEODibsvkSEj7oywBedzN1D+Ok3mgA5CfQIWDqFO+47KvwGC7+Zfd+lPg1rrfA8S4wjs05xQewoXSC2Pghw==",
+  "dgSpecHash": "tsWK0xthCYs1HBHwWf9hywSCQLBGoIX1+WCyoQCAIBSEsU8zvegTVfnfquCp+RBT45w+82tbYSWDfjyWqlgn5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\André\\source\\repos\\MetrologyApp\\MetrologyApp.DataAccess\\MetrologyApp.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,9 @@
     "C:\\Users\\André\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\André\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\André\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\André\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\André\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\André\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
     "C:\\Users\\André\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\André\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\André\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

@@ -5,11 +5,13 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetrologyApp", "MetrologyApp\MetrologyApp.csproj", "{05F07045-E796-4D3D-BFCC-0D1C008930FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetrologyApp.DataAccess", "MetrologyApp.DataAccess\MetrologyApp.DataAccess.csproj", "{E9876044-B7BE-47B7-937D-CC113234849F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetrologyApp.DataAccess", "MetrologyApp.DataAccess\MetrologyApp.DataAccess.csproj", "{E9876044-B7BE-47B7-937D-CC113234849F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetrologyApp.Models", "MetrologyApp.Models\MetrologyApp.Models.csproj", "{4B4EDFC5-57AF-49E4-B4E8-2BACEC631FE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetrologyApp.Models", "MetrologyApp.Models\MetrologyApp.Models.csproj", "{4B4EDFC5-57AF-49E4-B4E8-2BACEC631FE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetrologyApp.Utilities", "MetrologyApp.Utilities\MetrologyApp.Utilities.csproj", "{C7C91DA7-11C6-4117-AC7D-71F5DF571F93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetrologyApp.Utilities", "MetrologyApp.Utilities\MetrologyApp.Utilities.csproj", "{C7C91DA7-11C6-4117-AC7D-71F5DF571F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetrologyApp.UnitTests", "MetrologyApp.UnitTests\MetrologyApp.UnitTests.csproj", "{64EA22EC-618F-44F3-A127-75F7B31AC82F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{C7C91DA7-11C6-4117-AC7D-71F5DF571F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C91DA7-11C6-4117-AC7D-71F5DF571F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C91DA7-11C6-4117-AC7D-71F5DF571F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64EA22EC-618F-44F3-A127-75F7B31AC82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EA22EC-618F-44F3-A127-75F7B31AC82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EA22EC-618F-44F3-A127-75F7B31AC82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EA22EC-618F-44F3-A127-75F7B31AC82F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
