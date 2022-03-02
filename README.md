@@ -22,3 +22,5 @@ Instalando o DB: <br />
 path: (localdb) \ MetrologyDB <br />
 add-migration nomeDaMigração <br />
 update-database <br />
+
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
