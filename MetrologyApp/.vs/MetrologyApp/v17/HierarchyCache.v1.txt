@@ -3,22 +3,46 @@
 i:{00000000-0000-0000-0000-000000000000}:MetrologyApp.DataAccess
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\metrologyapp.dataaccess.csproj
 ++Dependencies
-i:{e9876044-b7be-47b7-937d-cc113234849f}:>700
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:>702
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:>701
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1197
+i:{e9876044-b7be-47b7-937d-cc113234849f}:>730
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:>729
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:>728
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1236
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:>1349
 ++Data
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\data\
-++AppDbContext.cs
-i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\data\appdbcontext.cs
 ++Migrations
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\migrations\
+++Repository
+i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\repository\
+++Analyzers
+i:{e9876044-b7be-47b7-937d-cc113234849f}:analyzers
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:analyzers
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:analyzers
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:analyzers
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:analyzers
+++Frameworks
+i:{e9876044-b7be-47b7-937d-cc113234849f}:frameworks
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:frameworks
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:frameworks
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:frameworks
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:frameworks
+++Packages
+i:{e9876044-b7be-47b7-937d-cc113234849f}:packages
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:packages
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:packages
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:packages
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:packages
+++Projects
+i:{e9876044-b7be-47b7-937d-cc113234849f}:projects
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:projects
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:projects
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:projects
+++AppDbContext.cs
+i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\data\appdbcontext.cs
 ++20220302155011_updateResultModel.cs
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\migrations\20220302155011_updateresultmodel.cs
 ++AppDbContextModelSnapshot.cs
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\migrations\appdbcontextmodelsnapshot.cs
-++Repository
-i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\repository\
 ++IRepository
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\repository\irepository\
 ++ActualPointRepo.cs
@@ -31,25 +55,52 @@ i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologya
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\repository\resultrepo.cs
 ++UnitOfWork.cs
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\repository\unitofwork.cs
-++Analyzers
-i:{e9876044-b7be-47b7-937d-cc113234849f}:analyzers
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:analyzers
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:analyzers
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:analyzers
-++Frameworks
-i:{e9876044-b7be-47b7-937d-cc113234849f}:frameworks
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:frameworks
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:frameworks
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:frameworks
-++Packages
-i:{e9876044-b7be-47b7-937d-cc113234849f}:packages
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:packages
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:packages
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:packages
-++Projects
-i:{e9876044-b7be-47b7-937d-cc113234849f}:projects
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:projects
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:projects
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\microsoft.netcore.app
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\users\andré\source\repos\metrologyapp\metrologyapp.models\microsoft.netcore.app
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\users\andré\source\repos\metrologyapp\metrologyapp.utilities\microsoft.netcore.app
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\microsoft.netcore.app
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.unittests\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{e9876044-b7be-47b7-937d-cc113234849f}:>1255
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1274
+++Microsoft.EntityFrameworkCore.Relational (6.0.2)
+i:{e9876044-b7be-47b7-937d-cc113234849f}:>1257
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{e9876044-b7be-47b7-937d-cc113234849f}:>1256
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1275
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{e9876044-b7be-47b7-937d-cc113234849f}:>1260
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1276
+++MetrologyApp.Models
+i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.models\metrologyapp.models.csproj
+i:{00000000-0000-0000-0000-000000000000}:MetrologyApp.Models
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\users\andré\source\repos\metrologyapp\metrologyapp.models\metrologyapp.models.csproj
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.models\metrologyapp.models.csproj
 ++20220302155011_updateResultModel.Designer.cs
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\migrations\20220302155011_updateresultmodel.designer.cs
 ++IActualPointRepo.cs
@@ -62,46 +113,6 @@ i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologya
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\repository\irepository\iresultrepo.cs
 ++IUnitOfWork.cs
 i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\repository\irepository\iunitofwork.cs
-++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
-i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-++Microsoft.CodeAnalysis.NetAnalyzers
-i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-++Microsoft.EntityFrameworkCore.Analyzers
-i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-++Microsoft.Extensions.Logging.Generators
-i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
-++System.Text.Json.SourceGeneration
-i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-++Microsoft.NETCore.App
-i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.dataaccess\microsoft.netcore.app
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\users\andré\source\repos\metrologyapp\metrologyapp.models\microsoft.netcore.app
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\users\andré\source\repos\metrologyapp\metrologyapp.utilities\microsoft.netcore.app
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\microsoft.netcore.app
-++Microsoft.EntityFrameworkCore (6.0.2)
-i:{e9876044-b7be-47b7-937d-cc113234849f}:>1216
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1233
-++Microsoft.EntityFrameworkCore.Relational (6.0.2)
-i:{e9876044-b7be-47b7-937d-cc113234849f}:>1218
-++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
-i:{e9876044-b7be-47b7-937d-cc113234849f}:>1217
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1234
-++Microsoft.EntityFrameworkCore.Tools (6.0.2)
-i:{e9876044-b7be-47b7-937d-cc113234849f}:>1219
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1235
-++MetrologyApp.Models
-i:{e9876044-b7be-47b7-937d-cc113234849f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.models\metrologyapp.models.csproj
-i:{00000000-0000-0000-0000-000000000000}:MetrologyApp.Models
 ++ActualPoint.cs
 i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\users\andré\source\repos\metrologyapp\metrologyapp.models\actualpoint.cs
 ++ErrorViewModel.cs
@@ -112,78 +123,28 @@ i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\users\andré\source\repos\metrologya
 i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:c:\users\andré\source\repos\metrologyapp\metrologyapp.models\result.cs
 ++MetrologyApp.Utilities
 i:{00000000-0000-0000-0000-000000000000}:MetrologyApp.Utilities
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp.utilities\bin\debug\net6.0\metrologyapp.utilities.dll
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp.utilities\metrologyapp.utilities.csproj
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.utilities\bin\debug\net6.0\metrologyapp.utilities.dll
 ++Mathematics
 i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\users\andré\source\repos\metrologyapp\metrologyapp.utilities\mathematics\
-++Calculate.cs
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\users\andré\source\repos\metrologyapp\metrologyapp.utilities\mathematics\calculate.cs
 ++StaticDetails.cs
 i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\users\andré\source\repos\metrologyapp\metrologyapp.utilities\staticdetails.cs
+++Calculate.cs
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\users\andré\source\repos\metrologyapp\metrologyapp.utilities\mathematics\calculate.cs
 ++MetrologyApp
 i:{00000000-0000-0000-0000-000000000000}:MetrologyApp
 ++Connected Services 
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1198
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1237
 ++Properties
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\properties\
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.unittests\properties\
-++launchSettings.json
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\properties\launchsettings.json
 ++wwwroot
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\
 ++Areas
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\
-++User
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\
-++Controllers
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\
-++ActualPointController.cs
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\actualpointcontroller.cs
-++HomeController.cs
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\homecontroller.cs
-++NominalPointController.cs
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\nominalpointcontroller.cs
-++ResultController.cs
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\resultcontroller.cs
-++Views
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\
-++ActualPoint
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\
-++Home
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\home\
-++Index.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\home\index.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\index.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\index.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\index.cshtml
-++Privacy.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\home\privacy.cshtml
-++NominalPoint
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\
-++Create.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\create.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\create.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\create.cshtml
-++Delete.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\delete.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\delete.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\delete.cshtml
-++Edit.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\edit.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\edit.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\edit.cshtml
-++Result
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\
-++_ViewImports.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\_viewimports.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\_viewimports.cshtml
-++_ViewStart.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\_viewstart.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\_viewstart.cshtml
 ++Tests
-++Unit
-++Shared
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\
+++Views
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\
 ++appsettings.json
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\appsettings.json
 ++Program.cs
@@ -191,7 +152,9 @@ i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologya
 ++ScaffoldingReadMe.txt
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\scaffoldingreadme.txt
 ++No service dependencies discovered
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1199
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1238
+++launchSettings.json
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\properties\launchsettings.json
 ++css
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\css\
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\bootstrap\dist\css\
@@ -202,14 +165,17 @@ i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologya
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\
 ++favicon.ico
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\favicon.ico
-++_Layout.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\_layout.cshtml
-++_Notification.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\_notification.cshtml
-++_ValidationScriptsPartial.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\_validationscriptspartial.cshtml
-++Error.cshtml
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\error.cshtml
+++User
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\
+++Unit
+++Shared
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\
+++_ViewImports.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\_viewimports.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\_viewstart.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\_viewstart.cshtml
 ++appsettings.Development.json
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\appsettings.development.json
 ++MessagePackAnalyzer
@@ -235,9 +201,9 @@ i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\program files\dotnet\sdk\6.0.102\sdk
 ++Microsoft.AspNetCore.App
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\microsoft.aspnetcore.app
 ++bootstrap (5.1.3)
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1232
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1273
 ++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1236
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1277
 ++bootstrap.css
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\.nuget\packages\bootstrap\5.1.3\contentfiles\any\any\wwwroot\css\bootstrap.css
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
@@ -267,8 +233,16 @@ i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologya
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\jquery-validation\
 ++jquery-validation-unobtrusive
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\jquery-validation-unobtrusive\
-++_Layout.cshtml.css
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\_layout.cshtml.css
+++Controllers
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\
+++_Layout.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\_layout.cshtml
+++_Notification.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\_notification.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\error.cshtml
 ++bootstrap.css.map
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\.nuget\packages\bootstrap\5.1.3\contentfiles\any\any\wwwroot\css\bootstrap.css.map
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -330,6 +304,24 @@ i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologya
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\jquery-validation\license.md
 ++jquery.validate.unobtrusive.js
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++ActualPointController.cs
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\actualpointcontroller.cs
+++HomeController.cs
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\homecontroller.cs
+++NominalPointController.cs
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\nominalpointcontroller.cs
+++ResultController.cs
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\controllers\resultcontroller.cs
+++ActualPoint
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\
+++Home
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\home\
+++NominalPoint
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\
+++Result
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\
+++_Layout.cshtml.css
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\views\shared\_layout.cshtml.css
 ++bootstrap.min.css.map
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\.nuget\packages\bootstrap\5.1.3\contentfiles\any\any\wwwroot\css\bootstrap.min.css.map
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
@@ -389,6 +381,25 @@ i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologya
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 ++jquery.validate.unobtrusive.min.js
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++Create.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\create.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\create.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\create.cshtml
+++Delete.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\delete.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\delete.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\delete.cshtml
+++Edit.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\edit.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\edit.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\edit.cshtml
+++Index.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\actualpoint\index.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\home\index.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\nominalpoint\index.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\result\index.cshtml
+++Privacy.cshtml
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\areas\user\views\home\privacy.cshtml
 ++bootstrap.rtl.min.css.map
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\.nuget\packages\bootstrap\5.1.3\contentfiles\any\any\wwwroot\css\bootstrap.rtl.min.css.map
 i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologyapp\metrologyapp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
@@ -419,33 +430,34 @@ i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:c:\users\andré\source\repos\metrologya
 i:{00000000-0000-0000-0000-000000000000}:MetrologyApp.sln
 ++MetrologyApp.UnitTests
 i:{00000000-0000-0000-0000-000000000000}:MetrologyApp.UnitTests
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:c:\users\andré\source\repos\metrologyapp\metrologyapp.unittests\metrologyapp.unittests.csproj
 ++References
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:
 ++UnitTest1.cs
 ++AssemblyInfo.cs
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.unittests\properties\assemblyinfo.cs
 ++Microsoft.VisualStudio.TestPlatform.TestFramework
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:
 ++Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:
 ++System
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:
 ++System.Core
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:
 ++packages.config
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.unittests\packages.config
-++CalculateTests.cs
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.unittests\calculatetests.cs
-++NUnit (3.13.2)
-i:{e9876044-b7be-47b7-937d-cc113234849f}:>1855
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:>1857
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1858
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:>1860
 ++nunit.framework
-i:{d9b3ab76-615c-45dd-91bf-3ca017ba1f9f}:
+++NUnit (3.13.2)
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:>1308
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:>1310
+i:{e9876044-b7be-47b7-937d-cc113234849f}:>1311
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1312
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:>1357
 ++NUnit3TestAdapter (4.2.1)
-i:{e9876044-b7be-47b7-937d-cc113234849f}:>1862
-i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:>1861
-i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1863
-i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:>1864
+i:{e9876044-b7be-47b7-937d-cc113234849f}:>1313
+i:{4b4edfc5-57af-49e4-b4e8-2bacec631fe7}:>1314
+i:{05f07045-e796-4d3d-bfcc-0d1c008930fa}:>1315
+i:{c7c91da7-11c6-4117-ac7d-71f5df571f93}:>1316
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:>1415
+++CalculateTests.cs
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:c:\users\andré\source\repos\metrologyapp\metrologyapp.unittests\calculatetests.cs
+++Connected Services
+++C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.102\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++coverlet.collector (3.1.0)
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:>1359
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{64ea22ec-618f-44f3-a127-75f7b31ac82f}:>1356
+++NUnit3TestAdapter (4.0.0)

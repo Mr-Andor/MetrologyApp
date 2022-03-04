@@ -30,7 +30,17 @@
       "ProjectGuid": "d9b3ab76-615c-45dd-91bf-3ca017ba1f9f",
       "DisplayName": "MetrologyApp.UnitTests",
       "ColorIndex": 4
+    },
+    "6479e12d-5f52-44b9-9dac-65cfcc5b1dde": {
+      "ProjectGuid": "6479e12d-5f52-44b9-9dac-65cfcc5b1dde",
+      "DisplayName": "MetrologyApp.UnitTests",
+      "ColorIndex": 5
+    },
+    "64ea22ec-618f-44f3-a127-75f7b31ac82f": {
+      "ProjectGuid": "64ea22ec-618f-44f3-a127-75f7b31ac82f",
+      "DisplayName": "MetrologyApp.UnitTests",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
